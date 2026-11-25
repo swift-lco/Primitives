@@ -1,0 +1,24 @@
+{
+  "originHash" : "8f82137e73f7196250ba9bfbcbbd21da924c3f4d9e6b38b78ef81316a3e5d726",
+  "pins" : [
+    {
+      "identity" : "atomos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/leviouwendijk/Atomos.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "0dbb0c492669c725aed5f91b965440c7cd4256e3"
+      }
+    },
+    {
+      "identity" : "testing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-tooling/Testing.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "abe024a50cfbe3ebab5e538e023d30616a35d3a2"
+      }
+    }
+  ],
+  "version" : 3
+}
